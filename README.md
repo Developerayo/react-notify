@@ -1,5 +1,5 @@
 <center>
-<img src="https://og-image.now.sh/React%20Notify.png?theme=light&md=1&fontSize=125px&images=https%3A%2F%2Fassets.zeit.co%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnow-black.svg&images=https%3A%2F%2Fned.im%2Fnoty%2F_media%2Fnoty-v3-logo.png&images=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Flogos-3%2F600%2FReact.js_logo-512.png&widths=250&widths=350&widths=250&heights=300&heights=250&heights=250" width="500px">
+<img src="https://og-image.now.sh/React%20Notify.png?theme=light&md=1&fontSize=125px&images=https%3A%2F%2Fassets.zeit.co%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnow-black.svg&images=https%3A%2F%2Fned.im%2Fnoty%2F_media%2Fnoty-v3-logo.png&images=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Flogos-3%2F600%2FReact.js_logo-512.png&widths=250&widths=350&widths=250&heights=300&heights=250&heights=250" width="800px">
 </center>
 
 # React Notify
