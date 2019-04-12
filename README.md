@@ -7,7 +7,7 @@ React Notify using Noty, noty is a dependency free notification library that sim
 
 ## Get Started
 
-Demo: https://react-notify-azjjh2kkw.now.sh/ <br>
+Demo: https://react-notify-azjjh2kkw.now.sh/ </br>
 
 Clone the repository:
 
