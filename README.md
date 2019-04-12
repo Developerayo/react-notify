@@ -11,26 +11,37 @@ Demo: LInk to DEMO here
 
 Clone the repository:
 
-**`git clone https://github.com/Atyantik/react-pwa.git && cd react-pwa`** 
+```bash 
+git clone https://github.com/Developerayo/react-notify.git && cd react-notify
+```
+
 
 Install the dependencies:
 
-**`npm install`**
+```bash 
+npm install
+```
 
 To start the project run following command in your terminal:
 
-**`npm start`**
+```bash 
+npm start
+```
 
 Now Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 To build the project run the following command in your terminal:
 
-**`npm run build`**
+```bash 
+npm run build
+```
 
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
 
-**`npm test`**
+```bash 
+npm test
+```
 
 
 Run the app in the development mode.<br>
@@ -44,13 +55,15 @@ You will also see any lint errors in the console.
 Noty is a dependency free notification library that simplifies creating alert's on a web page.
 
 **Creating a notification**
-```
+
+```javascript
 new Noty({
     ...
     text: 'Some notification text',
     ...
 }).show();
 ```
+
 **Noty Available functions listed below.**
 
 
