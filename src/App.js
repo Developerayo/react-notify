@@ -51,9 +51,9 @@ class App extends Component {
     return (
       <div className="App">
        
-      <button onClick={(e)=>this.showSuccess(e)}>Show Success Message</button>
-      <button onClick={(e)=>this.showError(e)}>Show Error Message</button>
-      <button onClick={(e)=>this.showInfo(e)}>Show Info Message</button>
+      <button class="success" onClick={(e)=>this.showSuccess(e)}><span>Success</span></button>
+      <button class="error" onClick={(e)=>this.showError(e)}>Show Error Message</button>
+      <button class="info" onClick={(e)=>this.showInfo(e)}>Show Info Message</button>
       {/* <button onClick={(e)=>this.showButtonBounce(e)}>Show Info Message</button> */}
       </div>
     ); 

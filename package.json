@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "muicss": "^0.9.41",
     "noty": "^3.2.0-beta",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
