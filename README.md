@@ -1,9 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# react-notify
+React Notify using Noty a dependency-free notification library that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog
 
-## Available Scripts
-
-In the project directory, you can run:
-
+## Get Started
 ### `npm start`
 
 Runs the app in the development mode.<br>

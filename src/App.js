@@ -5,9 +5,6 @@ import './App.css';
 import './noty.css'
 import './bootstrap-v4.css'
 import './animate.css'
-// import '../node/modules/noty/lib/themes/mint.css'
-
-// import '../node/modules/noty/lib/themes/bootstrap-v4.css'
 
 class App extends Component {
   showSuccess(){
@@ -37,15 +34,6 @@ class App extends Component {
       timeout:"3000"
     }).show()
   }
-  // showButtonBounce(){
-  // new Noty({
-  //   text: 'Some Notifcation text',
-  //   animation: {
-  //       open: 'animated bounceInRight', // Animate.css class names
-  //       close: 'animated bounceOutRight' // Animate.css class names
-  //   }
-  //   }).show();
-  // }
 
   render() {
     return (
