@@ -11,7 +11,7 @@ class App extends Component {
       type:"success",
       theme:"bootstrap-v4",
       layout:"topLeft",
-      text:"Some Notification text...",
+      text:"Notification Text Here....",
       timeout:"3000"
     }).show()
   }
@@ -20,7 +20,7 @@ class App extends Component {
       type:"error",
       theme:"bootstrap-v4",
       layout:"topLeft",
-      text:"Some Notification text...",
+      text:"Notification Text Here....",
       timeout:"3000"
     }).show()
   }
@@ -29,7 +29,7 @@ class App extends Component {
       type:"info",
       theme:"bootstrap-v4",
       layout:"topLeft",
-      text:"Some Notification text...",
+      text:"Notification Text Here....",
       timeout:"3000"
     }).show()
   }
@@ -38,7 +38,7 @@ class App extends Component {
       type:"warning",
       theme:"bootstrap-v4",
       layout:"topLeft",
-      text:"Some Notification text...",
+      text:"Notification Text Here....",
       timeout:"3000"
     }).show()
   }

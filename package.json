@@ -18,12 +18,15 @@
     "now-build": "react-scripts build"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": "react-notify"
   },
   "browserslist": [
     ">0.2%",
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "eslint-plugin-prettier": "^3.0.1"
+  }
 }

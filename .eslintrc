@@ -1,0 +1,7 @@
+{
+  "extends": "react-notify",
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": "error"
+  }
+}
