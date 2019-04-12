@@ -64,6 +64,9 @@
   cursor: pointer;
   margin: 5px;
   }
+  .success:hover {
+    box-shadow: 0 10px 10px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
   .success span {
     cursor: pointer;
     display: inline-block;
@@ -90,7 +93,7 @@
 .error {
     display: inline-block;
     border-radius: 4px;
-    background-color: #90EE90;
+    background-color: #FA8072;
     border: none;
     color: #FFFFFF;
     text-align: center;
@@ -101,6 +104,9 @@
     cursor: pointer;
     margin: 5px;
     }
+.error:hover {
+  box-shadow: 0 10px 10px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
 .error span {
     cursor: pointer;
      display: inline-block;
@@ -127,7 +133,7 @@
 .info {
       display: inline-block;
       border-radius: 4px;
-      background-color: #90EE90;
+      background-color: #87CEEB;
       border: none;
       color: #FFFFFF;
       text-align: center;
@@ -138,6 +144,9 @@
       cursor: pointer;
       margin: 5px;
       }
+.info:hover {
+      box-shadow: 0 10px 10px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+      }      
 .info span {
       cursor: pointer;
        display: inline-block;
