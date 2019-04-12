@@ -3,7 +3,7 @@
 </center>
 
 # React Notify
-React Notify using Noty, noty is a dependency free notification library that simplifies creating alert's on a web page.
+React Notify using Noty, noty is a dependency free notification library that simplifies creating alert's on a web application.
 
 ## Get Started
 
@@ -52,7 +52,7 @@ You will also see any lint errors in the console.
 
 # Noty
 
-Noty is a dependency free notification library that simplifies creating alert's on a web page.
+Noty is a dependency free notification library that simplifies creating alert's on a web application.
 
 **Creating a notification**
 
