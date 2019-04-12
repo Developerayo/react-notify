@@ -50,11 +50,9 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-       
       <button class="success" onClick={(e)=>this.showSuccess(e)}><span>Success</span></button>
-      <button class="error" onClick={(e)=>this.showError(e)}>Show Error Message</button>
-      <button class="info" onClick={(e)=>this.showInfo(e)}>Show Info Message</button>
-      {/* <button onClick={(e)=>this.showButtonBounce(e)}>Show Info Message</button> */}
+      <button class="error" onClick={(e)=>this.showError(e)}><span>Error</span></button>
+      <button class="info" onClick={(e)=>this.showInfo(e)}><span>Info</span></button>
       </div>
     ); 
   }
