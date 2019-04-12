@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
 import Noty from 'noty'
 
-import './App.css';
-import './noty.css'
-import './bootstrap-v4.css'
-import './animate.css'
+import './css/App.css';
+import './css/noty.css'
+import './css/bootstrap-v4.css'
 
 class App extends Component {
   showSuccess(){
