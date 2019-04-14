@@ -28,8 +28,8 @@ class App extends Component {
       size={120}
       ariaLabel="View source on Github"/>
       <footer style={{marginTop: `160px`}}>
-      <GitHubButton href="https://github.com/developerayo" data-size="large" aria-label="Follow @developerayo on GitHub">Follow @developerayo</GitHubButton>
-      <GitHubButton href="https://github.com/developerayo/react-notify" data-size="large" data-show-count="true" aria-label="Star developerayo/react-notify on GitHub">Star</GitHubButton>
+      <GitHubButton href="https://github.com/developerayo" data-size="large" aria-label="Follow @developerayo on GitHub">Follow @developerayo</GitHubButton> &nbsp;&nbsp;
+      <GitHubButton href="https://github.com/developerayo/react-notify" data-size="large" data-show-count="true" aria-label="Star developerayo/react-notify on GitHub">Star</GitHubButton>&nbsp;&nbsp;
       <GitHubButton href="https://github.com/developerayo/react-notify/fork" data-size="large" aria-label="Fork developerayo/react-notify on GitHub">Fork</GitHubButton></footer>
     </div>  
     );
