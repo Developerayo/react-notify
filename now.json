@@ -1,7 +1,7 @@
 {
     "version": 2,
     "name": "React-Notify",
-    "alias": "react-notify",
+    "alias": "react-notify.now.sh",
     "builds": [
       {"src": "package.json", "use": "@now/static-build", "config": {"distDir": "build"}}
     ],
