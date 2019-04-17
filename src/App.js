@@ -17,10 +17,10 @@ class App extends Component {
           <h1>React Notify</h1>
         </p>   
 
-          <button class="success" onClick={(e)=>this.showSuccess(e)}><span>Success</span></button>
-          <button class="error" onClick={(e)=>this.showError(e)}><span>Error</span></button>
-          <button class="info" onClick={(e)=>this.showInfo(e)}><span>Info</span></button>
-          <button class="warning" onClick={(e)=>this.showWarning(e)}><span>Warning</span></button>
+          <button className="success" onClick={(e)=>this.showSuccess(e)}><span>Success</span></button>
+          <button className="error" onClick={(e)=>this.showError(e)}><span>Error</span></button>
+          <button className="info" onClick={(e)=>this.showInfo(e)}><span>Info</span></button>
+          <button className="warning" onClick={(e)=>this.showWarning(e)}><span>Warning</span></button>
       <GHCorner
       href="https://github.com/developerayo/react-notify"
       positon="top-right"
