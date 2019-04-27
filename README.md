@@ -64,7 +64,7 @@ Noty is a dependency free notification library that simplifies creating alert's 
 ```javascript
 new Noty({
     ...
-    text: 'Some notification text',
+    text: 'Notification Text Here',
     ...
 }).show();
 ```
