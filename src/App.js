@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Noty from 'noty'
 import GitHubButton from 'react-github-btn'
 import GHCorner from 'react-gh-corner';
-import styled from 'styled-components';
+// import styled from 'styled-components';
 // import {Helmet} from "react-helmet";
 
 import './css/App.css';
